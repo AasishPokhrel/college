@@ -1,0 +1,341 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+#box1 {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+#box2 {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: darkblue;
+    color: white;
+}
+#box {
+    margin-left: 50px;
+}
+#box5 {
+    margin-left: 50px;
+    background-color: rgb(231, 57, 57);
+    height: 50px;
+    width: 100px;
+    border: solid black;
+    color: white;
+    border-radius: 15%;
+    font-weight: bolder;
+}
+#box6 {
+    margin-left: 50px;
+}
+#box7 {
+    margin-left: 50px;
+}
+#box8 {
+    margin-left: 50px;
+}
+#box9 {
+    margin-left: 50px;
+}
+#box10 {
+    margin-left: 50px;
+}
+#topi {
+    font-weight: 500px;
+    color: rgb(0, 0, 0);
+}
+.nepa {
+    display: flex;
+    margin-top: 40px;
+}
+span {
+    color: blueviolet;
+    font-weight: 800;
+    padding: 10px;
+    margin: 30px;
+    font-size: 1rem;
+}
+#nn {
+    font-size: 3rem;
+    padding: 30px;
+}
+#bue {
+    color: violet;
+    font-size: 3rem;
+}
+#kk {
+    color: violet;
+    font-size: 3rem;
+}
+#Nepa {
+    color: black;
+}
+.im {
+    margin-left: 330px;
+    font-weight: 900;
+    margin-right: 60px;
+}
+button {
+    height: 50px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: red;
+    border-radius: 19%;
+    margin-left: 190px;
+    margin-top: 100px;
+    font-size: 1rem;
+    font-weight: bolder;
+    color: azure;
+}
+.dui {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.prin {
+    justify-content: center;
+    align-items: center;
+}
+#wel {
+    display: flex;
+    color: darkblue;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
+#ke {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -33px;
+    font-size: 3rem;
+    color: gold;
+}
+#mes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: larger;
+}
+#sar {
+    font-weight: 900;
+    margin-left: 360px;
+}
+.sign {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+}
+#si {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ll {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -34px;
+}
+#trust {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+}
+/* .brands {
+    margin-left: 500px;
+} */
+.trust {
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: blue;
+}
+.our {
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: rgb(78, 23, 218);
+}
+marquee {
+    font-size: larger;
+    gap: 30px;
+}
+.box {
+    height: 480px;
+    width: 1510px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+}
+.aa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+}
+.xx {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+}
+
+#box55 {
+    margin-left: 50px;
+    background-color: rgb(231, 57, 57);
+    height: 50px;
+    width: 100px;
+    border: solid black;
+    color: white;
+    border-radius: 15%;
+    font-weight: bolder;
+    margin-left: 590px;
+
+}
+.box99 {
+    background-image: url(../../../../Downloads/groot.jpg);
+background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;    
+}
+#oo {
+    color: blue;
+    font-size: larger;
+}
+#pp {
+    color: white;
+    font-size: larger;
+}
+.ee {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: brown;
+}
+.bore {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: brown;
+    text-transform: uppercase;
+}
+.nice {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: larger;
+}
+.parent {
+    display: flex;
+}
+.child1 {
+    height: 280px;
+    width: 330px;
+    border: 1px solid black;
+    gap: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: azure;
+}
+.child2 {
+
+    height: 280px;
+    width: 330px;
+    border: 1px solid black;
+    margin-left: 320px;
+    margin-top: 10px;
+    background-color: lightblue;
+}
+.child3 {
+
+    height: 280px;
+    width: 330px;
+    border: 1px solid black;
+    margin-left: 320px;
+    margin-top: 10px;
+}
+.live {
+    font-size: 3rem;
+    text-shadow: 2px 6px 8px black;
+    color: white;
+}
+.ctrl {
+    margin: 50px;
+    font-size: 2rem;
+    color: black;
+}
+.it {
+    font-size: smaller;
+    color: black;
+    word-spacing: 6px;
+}
+.past {
+    font-size: 3rem;
+    text-shadow: 2px 6px 8px black;
+    color: white;
+}
+.future {
+    margin: 50px;
+    font-size: 3rem;
+    color: black;
+}
+.present {
+    font-size: smaller;
+    color: black;
+    word-spacing: 6px;
+}
+.sun{
+    font-size: 5rem;
+    text-shadow: 2px 6px 8px black;
+    color: white;
+}
+.mon {
+    margin: 50px;
+    font-size: 2rem;
+    color: black;
+}
+.tue {
+    font-size: smaller;
+    color: black;
+    word-spacing: 6px;
+}
+img:hover{
+    scale: 5;
+}
